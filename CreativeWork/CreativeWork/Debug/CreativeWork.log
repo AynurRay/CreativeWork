@@ -1,0 +1,17 @@
+﻿  CreativeWork.cpp
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(288,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(294,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(300,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(306,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(312,29): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(326,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(332,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(338,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(344,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(368,2): error C2601: Timer: недопустимые локальные определения функций
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(57): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(378,2): error C2601: myReshape: недопустимые локальные определения функций
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(57): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(388,2): error C2601: main: недопустимые локальные определения функций
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(57): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\aynur\Desktop\CreativeWork\CreativeWork\CreativeWork.cpp(57): fatal error C1075: "{": не найдена несоответствующая лексема
