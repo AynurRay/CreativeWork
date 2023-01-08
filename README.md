@@ -1,2 +1,2 @@
-# OpenGL_project
-<img src="src.jpg"/>
+# CreativeWork
+<img src="screen.jpg"/>
