@@ -1,6 +1,3 @@
-#Проект созданный при изучении комgьютерной графики (OpenGL) 
-<img src="screen.jpg"/>
-
-<video controls>
-<source src="result.mp4" type="video/mp4">
-</video>
+#CreativeWork
+<br>Проект созданный при изучении компьютерной графики (OpenGL) 
+<img src="result.gif"/>
