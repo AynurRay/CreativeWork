@@ -1,2 +1,2 @@
 # OpenGL_project
-![](OpenGL_project/src.jpg)
+<img src="OpenGL_project/src.jpg" width="200" height="50"/>
